@@ -1,0 +1,3 @@
+/usr/ws-projects/ws-clion/Stack/cmake-build-debug/CMakeFiles/Stack.dir
+/usr/ws-projects/ws-clion/Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/usr/ws-projects/ws-clion/Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
